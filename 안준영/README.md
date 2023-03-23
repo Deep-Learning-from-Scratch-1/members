@@ -6,6 +6,16 @@
 
 책에 나와 있는 내용을 비롯하여, 다양한 코드들과 추가적인 예시들이 Commit & Push될 예정입니다.
 
+Black Code Formatter를 사용하며, 모든 Python 코드는 Black으로 Format됩니다.
+
 열심히 노력하겠습니다.
 
 > "나는 내가 생각한 것보다 훨씬 강하다"
+
+---
+
+``$ LaTex 문법 $``: LaTeX, TeX 수식 적용가능 (예시 : $x^2 + y^2 = z^2$)
+
+$\leq$ : `\leq`, $\geq$ : `\geq`
+
+$\theta$ : `\theta`
